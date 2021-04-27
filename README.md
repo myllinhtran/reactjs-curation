@@ -7,7 +7,8 @@ A list of ReactJS related programming tutorials and resources, intended for begi
 * [Blog from Reactjs.org](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) 
 
 ### Libraries
-* [FontAwesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react) - usage of icons in React
+* [FontAwesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react) - usage of icons for React
+* [React Icons](https://react-icons.github.io/react-icons/) - more icons for React
 * [React Hook Form](https://react-hook-form.com/) - creating forms in React
 * [React Router](https://reactrouter.com/) - navigating components in React
 
